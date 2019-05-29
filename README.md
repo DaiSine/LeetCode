@@ -2,4 +2,4 @@
 
 |No.|Problem|Level|Language|Note|
 |----|----|----|----|---|
-|1|Two Sum|Easy|C|(ฅ>ω<*ฅ)|
+|1|Two Sum|Easy|C / C++|Hash Map|
